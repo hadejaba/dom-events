@@ -5,7 +5,7 @@
 // Hint: The getModifierState() method
 
 //  Caps Lock Activated?
-
+//simplifying the message
 
 function myCaps(event) {
     let x = event.getModifierState("CapsLock");
